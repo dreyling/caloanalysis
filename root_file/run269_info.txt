@@ -1,0 +1,5 @@
+y_0 -> calo 1 (photon)
+y_2 -> calo 2 (nothing)
+y_4 -> calo 3 (electron)
+y_6 -> calo 4 (electron)
+y_8 -> calo 5 (electron)
